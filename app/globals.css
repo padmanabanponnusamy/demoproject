@@ -1,0 +1,17 @@
+body,
+html {
+    margin: 0px;
+    padding: 0;
+}
+
+.top_nav {
+    display: flex;
+    margin-left: 890px;
+    position: absolute;
+    margin-top: 8px;
+    font-weight: bold;
+    font-size: 17px;
+    color: black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    gap: 60px;
+}
